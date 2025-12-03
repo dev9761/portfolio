@@ -1,40 +1,40 @@
 {
   "workData": [
     {
-      "image": "/images/work/work-img-1.jpg",
-      "title": "Mug Sticker Designing",
-      "client": "John Honnai",
-      "slug": "mug-sticker-designing"
+      "image": "/images/work/work-img-1.png",
+      "title": "Parentune.com",
+      "slug": "parentune",
+      "link": "https://parentune.com"
     },
     {
-      "image": "/images/work/work-img-2.jpg",
-      "title": "Mobile App Design",
-      "client": "John Honnai",
-      "slug": "mobile-app-design"
+      "image": "/images/work/work-img-2.png",
+      "title": "Lifeguru.app",
+      "slug": "lifeguru",
+      "link": "https://lifeguru.app"
     },
     {
-      "image": "/images/work/work-img-3.jpg",
-      "title": "Fashion Website Template",
-      "client": "John Honnai",
-      "slug": "fashion-website-template"
+      "image": "/images/work/work-img-3.png",
+      "title": "SalesDiary.in",
+      "slug": "salesdiary",
+      "link": "https://salesdiary.in/"
     },
     {
-      "image": "/images/work/work-img-4.jpg",
-      "title": "Book Cover Design",
-      "client": "John Honnai",
-      "slug": "book-cover-design"
+      "image": "/images/work/work-img-4.png",
+      "title": "Ibuzoo.in",
+      "slug": "ibuzoo",
+      "link": "https://ibuzoo.in"
     },
     {
-      "image": "/images/work/work-img-5.jpg",
-      "title": "Mobile App Design",
-      "client": "John Honnai",
-      "slug": "mobile-app-design"
+      "image": "/images/work/work-img-5.png",
+      "title": "Instant Markets",
+      "slug": "instant-markets",
+      "link": "https://instantmarkets.com"
     },
     {
-      "image": "/images/work/work-img-6.jpg",
-      "title": "Mug Sticker Designing",
-      "client": "John Honnai",
-      "slug": "mug-sticker-designing"
+      "image": "/images/work/work-img-6.png",
+      "title": "Inovatix Solutions",
+      "slug": "inovatix-solutions",
+      "link": "https://inovatixhq.com/"
     }
   ]
 }

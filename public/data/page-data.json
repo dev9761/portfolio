@@ -16,19 +16,14 @@
     ],
     "socialItems": [
       {
-        "platform": "dribbble",
-        "icon": "/images/icon/dribble-icon.svg",
-        "link": "https://dribbble.com"
+        "platform": "Github",
+        "icon": "/images/icon/github-icon.svg",
+        "link": "https://github.com/dev9761"
       },
       {
         "platform": "linkedin",
         "icon": "/images/icon/linkedin-icon.svg",
         "link": "https://www.linkedin.com/in/devansh-saxena-67989a1b0/"
-      },
-      {
-        "platform": "facebook",
-        "icon": "/images/icon/facebook-icon.svg",
-        "link": "https://facebook.com"
       }
     ]
   },
@@ -64,13 +59,10 @@
   "contactLinks": {
     "socialLinks": [
       {
-        "title": "Dribble",
-        "href": "/"
+        "title": "Github",
+        "href": "https://github.com/dev9761"
       },
-      {
-        "title": "Facebook",
-        "href": "/"
-      },
+      
       {
         "title": "LinkedIn",
         "href": "https://www.linkedin.com/in/devansh-saxena-67989a1b0/"

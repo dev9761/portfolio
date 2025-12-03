@@ -39,7 +39,7 @@ const Contact = () => {
   const handleSubmit = async (e: any) => {
     e.preventDefault();
 
-    fetch("https://formsubmit.co/ajax/bhainirav772@gmail.com", {
+    fetch("https://formsubmit.co/ajax/saxenad276@gmail.com", {
       method: "POST",
       headers: { "Content-type": "application/json" },
       body: JSON.stringify({
@@ -166,7 +166,7 @@ const Contact = () => {
                       <Link
                         className="text-base sm:text-lg font-normal text-secondary hover:text-primary"
                         onClick={(e) => e.preventDefault()}
-                        href={"#!"}
+                        href={value?.href}
                       >
                         {value?.title}
                       </Link>
@@ -180,7 +180,7 @@ const Contact = () => {
                     <div key={index}>
                       <Link
                         onClick={(e) => e.preventDefault()}
-                        href={"#!"}
+                        href={value?.link}
                         className="text-base lg:text-lg text-black font-normal border-b border-black pb-3 hover:text-primary hover:border-primary"
                       >
                         {value?.label}
