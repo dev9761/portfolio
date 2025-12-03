@@ -1,0 +1,92 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "saxenad276@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:saxenad276@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 8218391926",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+918218391926"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "dribbble",
+        "icon": "/images/icon/dribble-icon.svg",
+        "link": "https://dribbble.com"
+      },
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/devansh-saxena-67989a1b0/"
+      },
+      {
+        "platform": "facebook",
+        "icon": "/images/icon/facebook-icon.svg",
+        "link": "https://facebook.com"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Diploma in Engineering - 2019",
+        "description": "During my diploma, I learned the fundamentals of web development, including HTML, CSS, and basic UI design principles. This is where I built my foundational understanding of front-end development and started creating simple, responsive web pages."
+      },
+      {
+        "title": "B. Tech - 2022",
+        "description": "During my B.Tech, I expanded my technical skill set by learning Tailwind CSS, Data Structures & Algorithms (DSA), Node.js, backend development with Java/Spring Boot, and the integration of frontend and backend systems. This helped me strengthen my problem-solving abilities and build full-stack applications with clean architecture, optimized performance, and seamless API integration."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Figma",
+        "icon": "/images/home/education-skill/figma-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Photoshop",
+        "icon": "/images/home/education-skill/photoshop-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Adobe XD",
+        "icon": "/images/home/education-skill/adobe-icon.svg",
+        "rating": 4
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Dribble",
+        "href": "/"
+      },
+      {
+        "title": "Facebook",
+        "href": "/"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/devansh-saxena-67989a1b0/"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "saxenad276@gmail.com",
+        "link": "mailto:saxenad276@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 8218391926",
+        "link": "tel:+918218391926"
+      }
+    ]
+  }
+}
