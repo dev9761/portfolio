@@ -1,5 +1,6 @@
 {
   "workData": [
+    
     {
       "image": "/images/work/work-img-1.png",
       "title": "Parentune.com",
@@ -11,6 +12,18 @@
       "title": "Lifeguru.app",
       "slug": "lifeguru",
       "link": "https://lifeguru.app"
+    },
+    {
+      "image": "/images/work/work-img-7.png",
+      "title": "Ohpolly.com",
+      "slug": "ohpolly",
+      "link": "https://www.ohpolly.com/"
+    },
+    {
+      "image": "/images/work/work-img-8.png",
+      "title": "Imperiumai.ai",
+      "slug": "imperiumai",
+      "link": "https://imperiumai.ai/"
     },
     {
       "image": "/images/work/work-img-3.png",
